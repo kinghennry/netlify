@@ -1,0 +1,32 @@
+### React Router Fix
+
+(Fix) [https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+
+### CRA Fix
+
+```
+"build" : "CI= react-scripts build",
+
+```
+# Netflix - Clone
+
+This project is a simplified front end clone of Netflix. 
+It was created with React and CSS (Grid and Flexbox). It uses The TMDB API.
+
+![example-site](https://raw.githubusercontent.com/superneutrino8/netlfix-clone/master/src/NetflixClone.jpg)
+
+Created Using NodeJS, Express and MongoDB
+
+[Click Here For Preview](https://netflix-clone-b01d5.web.app/)
+
+## Tech Stack
+
+- Webpack 
+- Axios
+- React
+- Flexbox
+
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE.md).
